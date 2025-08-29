@@ -14,7 +14,8 @@
     "@orderly.network/trading": "latest"
   },
   "devDependencies": {
-    "@types/react": "^18.2.0",
+    "@
+    types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
     "typescript": "^5.3.3",
     "@vitejs/plugin-react-swc": "^3.7.0",
